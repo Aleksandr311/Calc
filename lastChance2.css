@@ -8,15 +8,15 @@
 
 }
 
-.my-calculato .operationsBloc button {
+.my-calculator .operationsBlock button {
     width: 40px;
     height: 40px;
     margin: 20px;
 }
-.my-calculator .inputsBloc .inputBloc{
+.my-calculator .inputsBlock .inputBloc{
     display: inline-block;
     padding: 10px;
 }
-.my-calculator .inputsBloc .inputBloc label {
+.my-calculator .inputsBlock .inputBloc label {
     display: block;
 }
