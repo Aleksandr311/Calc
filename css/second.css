@@ -1,0 +1,12 @@
+img {
+    width: 50px;
+}
+.important-item {
+    color: blue;
+    font-size: 20PX;
+    border: red 1px solid;
+}
+
+.important-size {
+    font-size: 40px;
+}
