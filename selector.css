@@ -1,0 +1,34 @@
+.nwes-content .section-news li{
+    padding: 10px;
+} 
+.nwes-content .section-news h2 {
+    color: white;
+    padding: 10px;
+}
+.nwes-content .section-news li:hover a{
+    color: white;
+}
+.nwes-content .section-hot h2{
+    background-color: red;
+}
+.nwes-content .section-hot li:hover{
+    background-color: red
+}
+.nwes-content .section-reality h2{
+    background-color: blueviolet;
+}
+.nwes-content .section-reality li:hover{
+    background-color: blueviolet;
+}
+
+
+.nwes-content .section-hot .footer{
+    color: chartreuse;
+}
+
+.nwes-content .section-reality .footer{
+    color: green;
+}
+.nwes-content .section-news .footer{
+    background-color: white;
+}
